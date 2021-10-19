@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "Mainapp"
+		},
+		{
+			"path": "TestApp"
+		}
+	],
+	"settings": {
+		"al.enableCodeAnalysis": true,
+		"al.codeAnalyzers": [
+		"${AppSourceCop}",
+		"${CodeCop}",
+		"${PerTenantExtensionCop}",
+		"${UICop}"
+		],
+		"CRS.OnSaveAlFileAction": "Rename",
+"CRS.RemovePrefixFromFilename": true,
+"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+"CRS.FileNamePatternExtensions": "<BaseNameShort>.<ObjectTypeShortPascalCase>.al",
+"CRS.ObjectNamePrefix": "Clip" 
+	   
+
+
+	}
+}
