@@ -1,0 +1,7 @@
+*.app
+launch.json
+rad.json
+*.xlf
+extensionsPermissionSet.xml
+*/*/.vscode/.altemplates/
+*/*/.vscode/.alcache/
