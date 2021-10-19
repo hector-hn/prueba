@@ -3,5 +3,5 @@ launch.json
 rad.json
 *.xlf
 extensionsPermissionSet.xml
-*/*/.vscode/.altemplates/
-*/*/.vscode/.alcache/
+*/.vscode/.altemplates/
+*/.vscode/.alcache/
