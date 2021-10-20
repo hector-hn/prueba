@@ -7,5 +7,28 @@
 			"path": "TestApp"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"al.enableCodeActions": true,
+		"al.codeAnalyzers": [
+
+"${AppSourceCop}",
+"${CodeCop}",
+"${PerTenantExtensionCop}",
+"${UICop}"
+
+
+		],
+
+		"CRS.OnSaveAlFileAction": "Rename",
+		"CRS.RemovePrefixFromFilename": true,
+		"CRS.FileNamePattern": "<ObjectNameShort><ObjectTypeShortPascalCase>.al",
+		"CRS.ObjectNamePrefix": "Clip",
+		"al.ruleSetPath": "clip.ruleset.json"
+
+
+
+
+
+
+	}
 }

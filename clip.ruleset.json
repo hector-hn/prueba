@@ -1,0 +1,20 @@
+{
+    "name": "Clip ruleset",
+"description": "Personalizacion del analizador de código",
+"rules": [
+{
+        "id": "AA0214",
+        "action": "None",
+        "justification": "Bug en BC16"
+
+
+
+
+}
+
+
+]
+
+
+
+}
