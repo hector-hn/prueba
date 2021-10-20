@@ -3,6 +3,41 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Mainapp">
     <body>
       <group id="body">
+        <trans-unit id="Table 362438040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality Measures</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Medidas de calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 362438040 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDD - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 362438040 - Field 1810825716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Measure</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Medida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDD - Field Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 362438040 - Field 2066807732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Normal Value</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Valor Normal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DDD - Field Normal Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64231666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality Measures</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Medidas de calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page QualityMeasures - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64231666 - Control 1810825716 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of measure to do on the item</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo de medida a realizar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page QualityMeasures - Control Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64231666 - Control 2066807732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of measure to do on the item</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Valor normal para la medida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page QualityMeasures - Control Normal Value - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4291131412 - Control 2586710446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
           <source>EnglishText</source>
           <note from="Developer" annotates="general" priority="2">ESP="YourLanguageText"</note>
