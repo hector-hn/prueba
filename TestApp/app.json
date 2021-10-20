@@ -1,0 +1,49 @@
+{
+  "id": "fb436040-ebf7-4a5e-9ca7-2dcf608c6190",
+  "name": "TestApp",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "This is our Test Application",
+"description": "This is our Test Application",
+"privacyStatement": "http://localhost",
+"EULA": "http://localhost",
+"help": "http://localhost",
+"url": "http://localhost",
+"logo": "C:/Users\ruben/Desktop/prueba/a.png",
+
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+
+"id": "ef6d5182-b4af-4072-ba04-92758a3dd96f",
+"publisher": "Default publisher",
+"name": "MainApp",
+"version": "1.0.0.0"
+ 
+
+    }
+    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "idRanges": [
+    {
+    "from": 50140,
+    "to": 50149
+    }
+   ],
+   "features": ["TranslationFile"],
+  "showMyCode": true,
+  "runtime": "5.0"
+}
